@@ -1,4 +1,4 @@
-const {Square, Circle, Triangle} = require('./shape')
+const {Square, Circle, Triangle} = require('../lib/shape')
 
 describe('Square', function(){
     it('render should return matching string', function(){
